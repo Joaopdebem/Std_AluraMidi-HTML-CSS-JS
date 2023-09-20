@@ -1,1 +1,1 @@
-# -Std-AluraMidi---HTML-CSS-e-JS
+# Estudo de caso para refazer o Alura Midi.
